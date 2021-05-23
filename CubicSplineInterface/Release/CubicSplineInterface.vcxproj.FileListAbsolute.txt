@@ -1,0 +1,6 @@
+C:\Users\HOME\source\repos\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.MyForm.resources
+C:\Users\HOME\source\repos\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.vcxproj.GenerateResource.cache
+C:\Users\HOME\source\repos\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.vcxprojAssemblyReference.cache
+C:\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.vcxprojAssemblyReference.cache
+C:\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.MyForm.resources
+C:\CubicSplineInterface\CubicSplineInterface\Release\CubicSplineInterface.vcxproj.GenerateResource.cache

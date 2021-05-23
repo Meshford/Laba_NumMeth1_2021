@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\CubicSplineInterface\CubicSplineInterface\MyForm.h(578,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\CubicSplineInterface\CubicSplineInterface\MyForm.h(604,9): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\CubicSplineInterface\CubicSplineInterface\MyForm.h(695,21): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CubicSplineInterface.vcxproj -> C:\CubicSplineInterface\Release\CubicSplineInterface.exe

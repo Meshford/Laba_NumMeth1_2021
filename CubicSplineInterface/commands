@@ -1,0 +1,3 @@
+set terminal wxt
+set grid
+plot 'C:\CubicSplineInterface\CubicSplineInterface\Spline1.txt' w l title 'S1', 'C:\CubicSplineInterface\CubicSplineInterface\Function1.txt' w l title 'F1'

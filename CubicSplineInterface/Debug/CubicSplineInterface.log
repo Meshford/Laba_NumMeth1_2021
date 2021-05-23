@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\HOME\source\repos\CubicSplineInterface\CubicSplineInterface\MyForm.h(574,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HOME\source\repos\CubicSplineInterface\CubicSplineInterface\MyForm.h(635,21): warning C4018: <: несоответствие типов со знаком и без знака
+  SplineInterpolate.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1561: точка входа должна быть определена
